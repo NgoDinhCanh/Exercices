@@ -54,6 +54,26 @@ namespace Exercices1
                 {
                     max = d;
                 }
+                int max2 = min;
+                if(max2 < a && a!=max)
+                {
+                    max2 = a;
+                }
+                if (max2 < b && b != max)
+                {
+                    max2 = b;
+                }
+                if (max2 < c && c != max)
+                {
+                    max2 = c;
+                }
+                if (max2 < d && d != max)
+                {
+                    max2 = d;
+                }
+                Console.WriteLine($"Gia tri lon thu 1 la {max}");
+                Console.WriteLine($"Gia tri lon thu 2 la {max2}");
+
             }
 
         }
