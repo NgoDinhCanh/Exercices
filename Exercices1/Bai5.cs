@@ -73,6 +73,7 @@ namespace Exercices1
                 }
                 Console.WriteLine($"Gia tri lon thu 1 la {max}");
                 Console.WriteLine($"Gia tri lon thu 2 la {max2}");
+                
 
             }
 
