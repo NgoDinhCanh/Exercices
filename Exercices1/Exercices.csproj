@@ -46,7 +46,8 @@
     <None Include="Bai1.cs" />
     <None Include="Bai2.cs" />
     <None Include="Bai3.cs" />
-    <Compile Include="Bai4.cs" />
+    <None Include="Bai4.cs" />
+    <Compile Include="Bai5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
